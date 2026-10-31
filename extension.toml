@@ -1,0 +1,7 @@
+id = "still-theme"
+name = "Still"
+version = "0.1.0"
+schema_version = 1
+authors = ["Samuel Cristobal <samuel.cristobal@protonmail.com>"]
+description = "VS Code Dark 2026 and Light 2026 with syntax highlighting stripped back to the essentials."
+repository = "https://github.com/scristobal/zed-still-theme"
